@@ -9,7 +9,6 @@ A basic login page designed with HTML and styled using CSS.
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
   - [Clone the Repository](#clone-the-repository)
-  - [Open the HTML File](#open-the-html-file)
 - [Index](#index)
 - [Contributing](#contributing)
 - [License](#license)
