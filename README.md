@@ -26,7 +26,7 @@ You can access the live demo of the login page [here]( https://neerajcodes888.gi
 
 ## Screenshots
 
-Include screenshots or links to screenshots of your login page here.
+
 
 ## Getting Started
 
