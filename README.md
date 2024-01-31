@@ -26,6 +26,9 @@ You can access the live demo of the login page [here]( https://neerajcodes888.gi
 
 ## Screenshots
 
+![image](https://github.com/neerajcodes888/LoginPage/assets/98253646/05bc2f71-980a-42be-93aa-a591664c51cb)
+
+![image](https://github.com/neerajcodes888/LoginPage/assets/98253646/1542705e-4a4e-48c5-af00-3ce8ae54fee1)
 
 
 ## Getting Started
